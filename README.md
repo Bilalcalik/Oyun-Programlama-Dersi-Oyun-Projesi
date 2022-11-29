@@ -9,3 +9,6 @@ Oyunda kullanılan tuşlar: W, A, S, D, Left CTRL, Left Click ve Mouse ile yatay
 Oyunda benim geliştirdiğim ve kodladığım scriptler: Player_sc, Enemy_sc ve NewEnemy_sc
 
 Oyunda ekip arkadaşımın geliştirdiği ve kodladığı scriptler: BulletBehaviour_sc, Fire_sc, GameControl_sc ve Tower_sc
+
+
+NOT: İçerdiği dosya sayısı 100 ve üzeri olduğu için "TextMesh Pro" dosyasını yükleyemedik.
